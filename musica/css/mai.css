@@ -3,3 +3,25 @@
 .social{
 	margin: 50px 0 0 0;
 }
+@media (max-width: 767px) {
+	#logo{
+		margin: 0 auto;
+	}
+	#SocialBlock{
+		text-align: center;
+		margin: 0 auto;
+		padding: 10px 0;
+	}
+}
+
+@media (min-width: 768px) {
+	
+}
+
+@media (min-width: 992px) {
+	
+}
+
+@media (min-width: 1200px) {
+	
+}
